@@ -71,3 +71,4 @@ Calculate the correlation coefficient and linear regression model between mouse 
 
 Plot the linear regression model on top of the previous scatter plot.
 
+Resources to assist in my challenge was by using AskBCS Learning Assistants as well as previous class assignements and stackflow.
